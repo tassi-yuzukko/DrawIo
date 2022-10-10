@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T11:04:17.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OCPAZTgbKuIBbcVThv04" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T11:04:35.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3mC8aslms2M7JNRi152S" version="20.4.0" type="github">
   <diagram id="PVi3mM8rECmHYF2QpJj_" name="ページ1">
     <mxGraphModel dx="1387" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-1" value="" style="shape=curlyBracket;rounded=1;flipH=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="217.5" width="20" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-2" value="network: hoge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-2" value="network: hoge" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-3" target="QNpkVtxUh-uvvTWXEHMZ-5">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-3" target="QNpkVtxUh-uvvTWXEHMZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-3" target="QNpkVtxUh-uvvTWXEHMZ-13">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-3" target="QNpkVtxUh-uvvTWXEHMZ-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="250" />
@@ -27,16 +27,16 @@
         <mxCell id="QNpkVtxUh-uvvTWXEHMZ-5" value="コンテナ２" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-8" value="同じネットワーク内なら&lt;br&gt;アクセスできる" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-8" value="同じネットワーク内なら&#xa;アクセスできる" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-10" value="" style="shape=curlyBracket;rounded=1;flipH=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="217.5" width="20" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-11" value="network: piyo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-11" value="network: piyo" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-13" target="QNpkVtxUh-uvvTWXEHMZ-14">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QNpkVtxUh-uvvTWXEHMZ-13" target="QNpkVtxUh-uvvTWXEHMZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QNpkVtxUh-uvvTWXEHMZ-13" value="コンテナ３" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -45,13 +45,13 @@
         <mxCell id="QNpkVtxUh-uvvTWXEHMZ-14" value="コンテナ４" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="740" y="290" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-15" value="同じネットワーク内なら&lt;br&gt;アクセスできる" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-15" value="同じネットワーク内なら&#xa;アクセスできる" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-17" value="異なるネットワーク間はアクセスできない" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-17" value="異なるネットワーク間はアクセスできない" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="210" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-19" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.125;rotation=45;fillColor=#000000;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="QNpkVtxUh-uvvTWXEHMZ-19" value="" style="shape=cross;size=0.125;rotation=45;fillColor=#000000;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="344" y="236" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
